@@ -6,6 +6,9 @@
     border-radius: 50px;
     border: dashed slateblue;
 }
+.like {
+    text-align: center;
+}
 body{
     background-color:lightblue;
 }
@@ -19,4 +22,10 @@ img {
     cursor: crosshair;
     text-align: center;
 }
-
+.body {
+    border-radius: 50px;
+    border: dashed slateblue;
+    margin-left: 25%;
+    text-align: center;
+    width: 50%;
+}
