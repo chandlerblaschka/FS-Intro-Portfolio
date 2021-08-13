@@ -1,0 +1,22 @@
+.Name{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-color: salmon;
+    border-radius: 50px;
+    border: dashed slateblue;
+}
+body{
+    background-color:lightblue;
+}
+img {
+    border: 5px solid black;
+    border-radius: 10%;
+    width:20%;
+    box-align: center;
+}
+.image {
+    cursor: crosshair;
+    text-align: center;
+}
+
